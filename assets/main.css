@@ -1,0 +1,76 @@
+html, body{
+    background-image: url("./images/background.png");
+    width: auto;
+    height: auto;
+}
+
+.text{
+    margin-top: 15vw;
+    margin-left: 8vw;
+    font-family: consolas;
+    position: absolute;
+}
+
+.text h1{
+    font-size: 5vw;
+    color: #e78403;
+}
+
+.text p {
+    font-size: 2vw;
+    color: #e78403;
+}
+
+img {
+    position: absolute;
+}
+
+.image {
+    margin-top: 6vw;
+    margin-left: 20vw;
+}
+
+
+.social-link {
+    margin-top: 16vw;
+    margin-left: 10vw;
+    display: inline-block;
+    text-align: center;
+    line-height: 50px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: absolute;
+    transition: all 0.3s ease-in-out; }
+    .social-link:last-child {
+      margin-right: 0; }
+    .social-link:hover {
+      text-decoration: none;
+      color: #ffffff; }
+
+.social-link .discord{
+    font-size: 1.2vw;
+    margin-left: -0.2vw;
+    color: #23272A;
+    background-color: #7289DA;
+}.social-link .discord:hover {
+    text-decoration: none;
+    color: #FFFFFF; }
+
+.social-link .youtube{
+    font-size: 1.2vw;
+    margin-left: 3vw;
+    color: white;
+    background-color: red;
+}.social-link .youtube:hover {
+    text-decoration: none;
+    color: black; }
+
+.social-link .code{
+    font-size: 1.2vw;
+    margin-left: 6vw;
+    color: white;
+    background-color: rgb(248, 160, 28);
+}.social-link .code:hover {
+    text-decoration: none;
+    color: black; }
