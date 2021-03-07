@@ -84,7 +84,7 @@ img {
     
     .image {
         top: 8vw;
-        left: 6vw;
+        left: 5vw;
     }
 
     .text{
@@ -92,7 +92,7 @@ img {
         justify-items: center;
         text-align: center;
         margin-top: 60vw;
-        margin-left: 15vw;
+        margin-left: 13vw;
         font-family: consolas;
         position: absolute;
     }
@@ -109,7 +109,7 @@ img {
 
     .social-link {
         margin-top: 60vw;
-        margin-left: 21vw;
+        margin-left: 19vw;
     }
 
     
